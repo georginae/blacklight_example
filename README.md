@@ -1,2 +1,0 @@
-blacklight_example
-==================
