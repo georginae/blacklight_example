@@ -1,0 +1,7 @@
+Sample app that demonstrates Blacklight's faceted and text searching.
+
+Set up according to https://github.com/projectblacklight/blacklight/wiki/Quickstart
+
+To run, start jetty: cd jetty; java -jar start.jar &
+Then start the rails server: rails s
+The MARC data has been indexed so you can try out the searching
